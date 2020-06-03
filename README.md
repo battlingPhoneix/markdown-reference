@@ -1,4 +1,4 @@
-<p>To read the underlying markdown, either open in a text editor, preferably VS Code. Use the markdown-preview extension to see the changes as you change the markdown.</p>
+<p>To read the underlying markdown, open in a text editor, preferably VS Code. Use the markdown-preview extension to see the changes as you change the markdown.</p>
 
 # Markdown Reference
 
